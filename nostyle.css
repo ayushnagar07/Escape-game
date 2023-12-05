@@ -21,7 +21,7 @@ body{
     flex-direction:column;
     align-items:center;
     padding-top:15vh;
-    background: url(./photos/number.jpeg);
+    background: url('number.jpeg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
